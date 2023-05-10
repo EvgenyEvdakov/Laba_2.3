@@ -9,4 +9,3 @@ if __name__ == "__main__":
 
     new_word = word[:num] + letter + word[num:]
     print("Новое слово:", new_word)
-    input("Нажмите на любую кнопку, чтобы выйти!")
